@@ -1,5 +1,5 @@
 # 💯About me:
-I am a Computer Science student at Durham University, passionate about exploring Artificial intelligence, Machine Learning, and Deep Learning.
+I am a Computer Science student at Durham University, passionate about exploring Technical AI Safety and Deep Learning.
 
 ## 🚀What I'm up to:
 - 📚 Indulging in online courses/studies
